@@ -22,6 +22,14 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 #### Objectives
 Develop SQL-based analytics to deliver detailed insight into:
 **Customer Behavior** 
-Building a modern data warehouse with a sql server, including ETL process, data modeling and data analytics.
+**Product Performance**
+**Sales Trends**
+
+#### License
+This project is licensed under the **MIT License** you are free to use, modify and share this project with proper attribution.
+
+#### About Me
+Hi, I’m Rukhsar Mujtabi, an IT professional passionate about data and analytics. I enjoy sharing knowledge and making data-driven work simple, impactful, and engaging.
+
 
 
